@@ -2,14 +2,18 @@
     "name": "speedy-monokai",
     "displayName": "Speedy Monokai",
     "description": "A Monokai theme optimized for high definition, vivid color displays.",
-    "version": "1.0",
-    "publisher": "moballo",
+    "version": "0.0.1",
+    "publisher": "Moballo",
     "engines": {
         "vscode": "^1.25.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Moballo-LLC/Speedy-Monokai-Theme.git"
+    },
     "contributes": {
         "themes": [
             {
