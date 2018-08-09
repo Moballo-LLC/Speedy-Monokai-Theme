@@ -1,0 +1,22 @@
+{
+    "name": "speedy-monokai",
+    "displayName": "Speedy Monokai",
+    "description": "A Monokai theme optimized for high definition, vivid color displays.",
+    "version": "0.0.1",
+    "publisher": "moballo",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Speedy Monokai Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Speedy Monokai Theme-color-theme.json"
+            }
+        ]
+    }
+}
