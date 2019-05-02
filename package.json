@@ -2,7 +2,7 @@
     "name": "speedy-monokai",
     "displayName": "Speedy Monokai",
     "description": "A Monokai theme optimized for high definition, vivid color displays.",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "publisher": "Moballo",
     "engines": {
         "vscode": "^1.25.0"
